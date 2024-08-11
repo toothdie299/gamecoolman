@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dy6ots2pnh4ks"
-path="res://.godot/imported/New Piskel-1.png (2).png-08a98e4a1178a11a50554ebd401eba8f.ctex"
+uid="uid://dj6lnrv2qxepe"
+path="res://.godot/imported/desert_moons.png-d9f8df6fd8c0abaea0a99f2bfdfcf0da.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://charcyer/New Piskel-1.png (2).png"
-dest_files=["res://.godot/imported/New Piskel-1.png (2).png-08a98e4a1178a11a50554ebd401eba8f.ctex"]
+source_file="res://assets/background/desert_moons.png"
+dest_files=["res://.godot/imported/desert_moons.png-d9f8df6fd8c0abaea0a99f2bfdfcf0da.ctex"]
 
 [params]
 

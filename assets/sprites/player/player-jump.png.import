@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cs278q2epff4c"
-path="res://.godot/imported/New Piskel-1.png.png-6eabdf48950cdd3635ee3a8cf78076ee.ctex"
+uid="uid://djt2oq7t4t1gj"
+path="res://.godot/imported/player-jump.png-0b36036f741dc9dfbfbf9899422b3a3f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://charcyer/New Piskel-1.png.png"
-dest_files=["res://.godot/imported/New Piskel-1.png.png-6eabdf48950cdd3635ee3a8cf78076ee.ctex"]
+source_file="res://assets/sprites/player/player-jump.png"
+dest_files=["res://.godot/imported/player-jump.png-0b36036f741dc9dfbfbf9899422b3a3f.ctex"]
 
 [params]
 
